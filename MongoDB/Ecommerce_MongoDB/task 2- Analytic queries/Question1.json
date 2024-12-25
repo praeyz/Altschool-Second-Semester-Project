@@ -1,0 +1,20 @@
+[{
+  "_id": "Clothing",
+  "total_revenue": 86240
+},
+{
+  "_id": "Home Appliances",
+  "total_revenue": 60300
+},
+{
+  "_id": "Groceries",
+  "total_revenue": 44918
+},
+{
+  "_id": "Books",
+  "total_revenue": 10268
+},
+{
+  "_id": "Automotive",
+  "total_revenue": 6552
+}]
