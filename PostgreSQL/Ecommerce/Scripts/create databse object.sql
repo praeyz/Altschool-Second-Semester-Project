@@ -1,3 +1,4 @@
+CREATE schema altschool;
 set search_path to altschool;
 
 CREATE TABLE customers(
